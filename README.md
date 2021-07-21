@@ -1,5 +1,5 @@
 # Output
-<p style="text-align:center"><img width="850" height="200" src="https://i.ibb.co/tCtj5Cm/Sin-t-tulo.png" alt="LCD Python" border="0"></p>
+<p style="text-align:center"><img width="" height="" src="https://i.ibb.co/tCtj5Cm/Sin-t-tulo.png" alt="LCD Python" border="0"></p>
 <br>
 You have probably seen a seven segment display.
 
